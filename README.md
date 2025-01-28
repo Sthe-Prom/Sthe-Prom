@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-#### Here's what's currently on my table:
+#### An aspiring cloud engineer, with a strong background in .net, c# backend development
 
-##### - Working on a dashboards project using mainly front-end tools, JS, HTML, CSS, and SQL 
-##### - Migrating a fully functional asp.net app to asp.net core.
+#### Current development stack
+##### - Backend - c#, .net, Asp.net core, API, Microservices
+##### - Angular
 
-###### I'm new to github and decentralized source control, I plan to bring my 
-###### projects to github for all the benefits of safety and easy sharing with my friends and teams.
+#### Upcoming development stack
+#### - Backend - Node, Python
+#### - Blazor, React
 
 <!--
 **Sthe-Prom/Sthe-Prom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
