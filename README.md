@@ -7,8 +7,8 @@
 ##### - Frontend: Angular
 
 #### Upcoming development stack
-#### - Backend : Node, Python
-#### - Frontend: Blazor, React
+##### - Backend : Node, Python
+##### - Frontend: Blazor, React
 
 <!--
 **Sthe-Prom/Sthe-Prom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
