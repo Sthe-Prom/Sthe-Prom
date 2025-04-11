@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### An aspiring cloud engineer, with a strong background in .net, c# backend development
+#### An aspiring Cloud Engineer, Software Developer with a strong background in .net, c# backend development
 
 #### Current development stack
 ##### - Backend : c#, .net, Asp.net core, API, Microservices
